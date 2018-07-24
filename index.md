@@ -15,5 +15,5 @@ for theoretical performance analysis.
 
 | Topic|  Lecture notes |
 |------|-----------|
-|Introduction to the stochastic multi-armed bandit problem |[Lecture 2.pdf] |
-|UCB algorithm | [Lecture 3.pdf] |
+|Introduction to the stochastic multi-armed bandit problem |[Lecture 2](Lecture 2.pdf) |
+|UCB algorithm | [Lecture 3](Lecture 3.pdf) |
