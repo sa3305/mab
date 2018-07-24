@@ -1,6 +1,6 @@
 
 
-## A course on multi-armed bandits and reinforcement learning##
+## A course on multi-armed bandits and reinforcement learning
 
 **Course description**
 
@@ -10,3 +10,10 @@ between taking the option that has performed best in the past and exploring new 
 the exploitation vs. exploration. Multi-armed bandits and reinforcement learning are classic paradigms of sequential decision making that 
 capture this tradeoff. This course will discuss recent advances in algorithm design for these paradigms along with techniques 
 for theoretical performance analysis.
+
+**Lecture notes**
+
+| Topic|  Lecture notes |
+|------|-----------|
+|Introduction to the stochastic multi-armed bandit problem | |
+|UCB algorithm | |
