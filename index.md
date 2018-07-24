@@ -18,5 +18,5 @@ for theoretical performance analysis.
 |Introduction | [Introduction slides](Intro.pdf) |
 |The stochastic multi-armed bandit problem <br> lower bounds, greedy algorithm |[Lecture 2](Lecture%202.pdf) |
 |UCB algorithm | [Lecture 3](Lecture%203.pdf) |
-|Thompson Sampling | [Lecture 4](Lecture%204.pdf), [Lecture 5](Lecture%205.pdf)|
+|Thompson Sampling | [Overview slides](Thompson%20Sampling%20overview.pdf), [Lecture 4](Lecture%204.pdf), [Lecture 5](Lecture%205.pdf)|
 |Linear bandits (LinUCB) | [Lecture notes](Lecture%20linear%20bandit.pdf)|
