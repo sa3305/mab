@@ -18,3 +18,4 @@ for theoretical performance analysis.
 |Introduction | [Introduction slides](Intro.pdf) |
 |The stochastic multi-armed bandit problem <br> lower bounds, greedy algorithm |[Lecture 2](Lecture%202.pdf) |
 |UCB algorithm | [Lecture 3](Lecture%203.pdf) |
+|Introduction to Thompson Sampling | [Lecture 4](Lecture%204.pdf)|
