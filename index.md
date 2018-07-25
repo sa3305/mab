@@ -20,3 +20,4 @@ for theoretical performance analysis.
 |UCB algorithm | [Lecture 3](Lecture%203.pdf) |
 |Thompson Sampling | [Overview slides](Thompson%20Sampling%20overview.pdf), [Lecture 4](Lecture%204.pdf), [Lecture 5](Lecture%205.pdf)|
 |Linear bandits (LinUCB) | [Lecture notes](Lecture%20linear%20bandit.pdf)|
+|Introduction to MDP <br> Value iteration, Q-value iteration, Policy iteration | [Lecture notes](Lecture%20MDP.pdf)|
