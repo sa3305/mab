@@ -7,7 +7,7 @@ We recommend installing the following software packages to your local computer f
 Installation instructions are here https://docs.anaconda.com/anaconda/install/ <br>
 <!--You can download the installer for Python 3.6 at https://www.continuum.io/downloads (either the graphical or the command line is fine).-->
 
-To open the jupyter notebook (ipnyb), run
+To open the jupyter notebook (ipynb), run
 
 jupyter notebook
 
