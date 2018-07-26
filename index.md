@@ -21,3 +21,4 @@ for theoretical performance analysis.
 |Thompson Sampling | [Overview slides](Thompson%20Sampling%20overview.pdf), [Lecture 4](Lecture%204.pdf), [Lecture 5](Lecture%205.pdf)|
 |Linear bandits (LinUCB) | [Lecture notes](Lecture%20linear%20bandit.pdf)|
 |Introduction to MDP <br> Value iteration, Q-value iteration, Policy iteration | [Lecture notes](Lecture%20MDP.pdf)|
+|RL algorithms, some theoretical guarantees | [Slides](RL%20guarantees%20SDM%20v2.pdf)|
